@@ -30,6 +30,10 @@
                     "value": "192.168.0.10"
                 },
                 "2": {
+                    "type": "url-addr",
+                    "value": "onedrivefiles.digital"
+                },
+                "3": {
                     "type": "network-traffic",
                     "start": "2019-07-10T13:05:55.621734Z",
                     "end": "2019-07-10T13:08:49.8293Z",
